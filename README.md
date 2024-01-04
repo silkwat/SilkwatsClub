@@ -1,7 +1,6 @@
-Twitter
-Reddit
+Twitter<br>
+Reddit<br>
 
-alt text
-Silkwat's Club
+Silkwat's Club<br>
 
 A collection of Docker Compose and config files for use in the lab.
